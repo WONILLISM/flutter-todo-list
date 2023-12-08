@@ -1,6 +1,6 @@
 class ToDoModel {
   bool isFinished;
-  final String title;
+  late final String title;
   final String content;
 
   ToDoModel({

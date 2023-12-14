@@ -13,6 +13,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # core
+  get: ^4.6.5
+
   cupertino_icons: ^1.0.2
 
 # Dev Dependencies
